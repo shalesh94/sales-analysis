@@ -1,1 +1,5 @@
-# sales-analysis
+# Restaurants Sales Dashboard ![Financial Simulator 1](https://user-images.githubusercontent.com/84010209/118806928-4b84e200-b8c5-11eb-9a28-b9243a583b03.png)
+![Financial Simulator 2](https://user-images.githubusercontent.com/84010209/118806937-4d4ea580-b8c5-11eb-80ea-42b22b5139a3.png)
+![Financial Simulator](https://user-images.githubusercontent.com/84010209/118806939-4de73c00-b8c5-11eb-9c62-32f6e719ee6a.png)
+![Income Statement](https://user-images.githubusercontent.com/84010209/118806941-4e7fd280-b8c5-11eb-9daa-0f06ffc1e903.png)
+![Revenue Margin Analysis](https://user-images.githubusercontent.com/84010209/118806942-4f186900-b8c5-11eb-94fc-52cf9afbbb1b.png)
